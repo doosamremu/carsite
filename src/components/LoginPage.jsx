@@ -3,7 +3,7 @@
 import { FcGoogle } from 'react-icons/fc';
 import { FaFacebook, FaApple } from 'react-icons/fa';
 import { Route , Routes , Link } from 'react-router';
-import SignUpPage from './signuppage';
+import SignUpPage from './SignUpPage';
 
 // SocialButton Component
 const SocialButton = ({ icon: Icon, text }) => {
