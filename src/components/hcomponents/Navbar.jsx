@@ -20,7 +20,7 @@ const Navbar = () => {
   </div>
   <div className="navbar-end mr-5">
     
-    <Link to="/login" className="btn bg-violet-700 border-white text-gray-50 ">Log in</Link>
+    <Link to="/login" className="btn bg-blue-700 text-gray-50 ">Log in</Link>
   </div>
 </div>
     </div> </header>
