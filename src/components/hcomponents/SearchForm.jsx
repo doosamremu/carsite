@@ -22,7 +22,7 @@ const SearchForm = () => {
             <input type="text" placeholder="Miles" className="bg-gray-700 text-white p-3 rounded-md w-1/2 border border-gray-600" />
             <input type="text" placeholder="ZIP" className="bg-gray-700 text-white p-3 rounded-md w-1/2 border border-gray-600" />
         </div>
-        <button className="bg-purple-600 text-white font-bold p-3 rounded-md hover:bg-purple-700 col-span-1 md:col-start-5">
+        <button className="bg-blue-600 text-white font-bold p-3 rounded-md hover:bg-blue-700 col-span-1 md:col-start-5">
           Show Results
         </button>
       </div>
